@@ -1,0 +1,2 @@
+webpackJsonp([28606369813582],{386:function(t,e){t.exports={data:{contentfulBlogPost:{title:"Test for Billy",publishDate:"July 4th, 2018",heroImage:{file:{url:"//images.ctfassets.net/z9w1wwuf1kmr/7orLdboQQowIUs22KAW4U/78b5d5f6c6a4f26b570d48d00a55451c/matt-palmer-254999.jpg"}},body:{childMarkdownRemark:{html:"<p>test 1234</p>"}}}},pathContext:{slug:"test-for-billy"}}}});
+//# sourceMappingURL=path---blog-test-for-billy-cfc800767fae2f159898.js.map
